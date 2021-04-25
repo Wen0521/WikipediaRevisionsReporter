@@ -1,6 +1,6 @@
 # Project Report
 
-Wen Fu
+(Put your name here)
 
 ## Markdown Tips
 
