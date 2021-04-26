@@ -12,6 +12,8 @@ import java.io.IOException;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 
+
+
 public final class WikipediaAnalyzer extends VBox {
 
     private final TextField titleField = new TextField();
