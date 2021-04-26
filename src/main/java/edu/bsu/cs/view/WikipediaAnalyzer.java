@@ -12,7 +12,9 @@ import java.io.IOException;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 
-
+import java.util.stream.Collectors;
+import java.io.InputStream;
+import java.util.stream.Stream;
 
 public final class WikipediaAnalyzer extends VBox {
 
